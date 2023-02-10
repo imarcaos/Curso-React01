@@ -1,4 +1,4 @@
-// ReactJs Aula #007
+// ReactJs Aula #007 - reajuste erro no git
 import ReactDOM from "react-dom/client";
 import './index.css'
 import App from "./App";
