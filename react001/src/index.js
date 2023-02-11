@@ -1,6 +1,6 @@
-// ReactJs Aula #007 - reajuste erro no git
-import ReactDOM from "react-dom/client";
-import './index.css'
-import App from "./App";
+import ReactDOM from "react-dom/client"
+import App from './App'
 
-ReactDOM.createRoot(document.querySelector("#root")).render(<App />)
+const root = document.querySelector("#root")
+ReactDOM.createRoot(root).render(<App />)
+
