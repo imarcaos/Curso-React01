@@ -14,3 +14,4 @@ Curso Sobre ReactJS
 - Class 012 - Project Reorganization, PascalCase and Component in the DOM and Arrow Functions
 - Class 013 - Code comments and Props Children
 - Class 014 - Props Children and Components inside Components
+- Class 015 - Component with class collection
