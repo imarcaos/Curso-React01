@@ -16,3 +16,4 @@ Curso Sobre ReactJS
 - Class 014 - Props Children and Components inside Components
 - Class 015 - Component with class collection
 - Class 016 - Conditional Intruction - ternary operator - version 1
+- Class 017 - Conditional Intruction - function - version 2
