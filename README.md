@@ -15,3 +15,4 @@ Curso Sobre ReactJS
 - Class 013 - Code comments and Props Children
 - Class 014 - Props Children and Components inside Components
 - Class 015 - Component with class collection
+- Class 016 - Conditional Intruction - ternary operator - version 1
