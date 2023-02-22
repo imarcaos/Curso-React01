@@ -10,10 +10,13 @@ import ComponenteSeis from "./components/ComponenteSeis"
 import ComponenteSete from "./components/ComponenteSete"
 import ComponenteOito from "./components/ComponenteOito"
 import ComponenteNove from "./components/ComponenteNove"
+import ComponenteDez from "./components/ComponenteDez"
 
 function App() {
     return (
         <>
+            <ComponenteDez titulo="Componente Dez" corTexto="green" />
+
             <ComponenteNove titulo="Componente Nove" valor="Marcos" />
 
             {/* <ComponenteOito titulo="Componente Oito" valor={10} /> */}
