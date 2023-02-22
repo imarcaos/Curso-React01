@@ -17,3 +17,4 @@ Curso Sobre ReactJS
 - Class 015 - Component with class collection
 - Class 016 - Conditional Intruction - ternary operator - version 1
 - Class 017 - Conditional Intruction - function - version 2
+- Class 018 - Conditional Intruction - Component with function and if - version 3
