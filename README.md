@@ -20,3 +20,5 @@ Curso Sobre ReactJS
 - Class 018 - Conditional Intruction - Component with function and if - version 3
 - Class 019 - How to define Inline Styles with style in jsx.
 - Class 020 - Direct communication between parent and child component
+- Class 021 - Indirect communication between components
+
