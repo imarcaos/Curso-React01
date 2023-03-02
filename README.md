@@ -21,4 +21,4 @@ Curso Sobre ReactJS
 - Class 019 - How to define Inline Styles with style in jsx.
 - Class 020 - Direct communication between parent and child component
 - Class 021 - Indirect communication between components
-
+- Class 022 - Indirect communication between components more details
