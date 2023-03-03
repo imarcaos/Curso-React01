@@ -22,3 +22,4 @@ Curso Sobre ReactJS
 - Class 020 - Direct communication between parent and child component
 - Class 021 - Indirect communication between components
 - Class 022 - Indirect communication between components more details
+- Class 023 - Direct communication between components more details
