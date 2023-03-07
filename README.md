@@ -24,3 +24,4 @@ Curso Sobre ReactJS
 - Class 022 - Indirect communication between components more details
 - Class 023 - Direct communication between components more details
 - Class 024 - Introduction to React Hooks and Usestate
+- Class 026 - The right way to update values with UseState

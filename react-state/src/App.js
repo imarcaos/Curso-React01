@@ -4,22 +4,27 @@ export default function App() {
 
     const [valor, setValor] = useState(100)
 
-    /* var valor = 0;
+    function diminuir() {
+        setValor(valor_antigo => valor_antigo - 1)
+        /* setValor(valor - 1) */
+    }
 
-    function incrementar() {
-        valor++
-        console.log(valor)
-    } */
-
-    function incrementar() {
-        setValor(valor + 1)
+    function aumentar() {
+        setValor(valor_antigo => valor_antigo + 1)
     }
 
     return (
         <>
-            <h1>React Hooks</h1>
-            <h3>Valor = {valor}</h3>
-            <button onClick={incrementar}>Incrementar</button>
+            <h1>React Hooks - useState</h1>
+            <button onClick={diminuir}>Diminuir</button>
+            <span>{valor} </span>
+            <button onClick={aumentar}>Aumentar</button>
+
+            /* Código abaixo apenas de exemplo, pois devemos chamar sempre em forma de função*/
+            <button onClick={() => {
+                /* setValor(valor + 10) */
+                setValor(va => va + 100) // va= valor antigo
+            }}>Aumentar_v2</button>
         </>
     )
 }
